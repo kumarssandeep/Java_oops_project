@@ -1,4 +1,8 @@
 # Java_oops_project
+
+Flow of code...
+<img width="374" alt="Java_oops_project(flow_of_code)" src="https://user-images.githubusercontent.com/67356407/126167874-eacd8036-6e6f-4e6d-90a4-a739d80167fa.png">
+
 I have attached some images of output below.
 
 ![Screenshot (347)](https://user-images.githubusercontent.com/67356407/126159465-5a6bdf46-002c-45f6-ba3a-2ae7a8bd2729.png)
