@@ -1,5 +1,14 @@
 # Java_oops_project
+
 #Automat_machine
+
+Automat is a mini project by which a owner can 
+easily handle the selling of products in a
+systematic way, the primary objective behind
+developing "Automat machine" project is to save 
+human energy and time. This project was made 
+using concepts of OOPS and programming
+language Java.
 
 Flow of code...
 
